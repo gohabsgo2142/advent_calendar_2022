@@ -25,8 +25,7 @@ def elf_calculation():
                 elf_cal_counts = int(i) + elf_cal_counts
 
     top_3_elves = sorted(elves, reverse=True)[:3]
-    total_3_elf = top_3_elves[0] + top_3_elves[1] + top_3_elves[2]
 
     print('Number of elf:', number_eleves)
-    print('Answer 1 -> High calories:', top_3_elves[0])
-    print('Calories for 3 elfs:', total_3_elf)
+    print('Answer 1 -> High calories:', max(top_3_elves))
+    print('Calories for 3 elfs:', sum(top_3_elves))
