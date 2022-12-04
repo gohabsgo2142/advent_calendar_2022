@@ -4,7 +4,7 @@ My solution for advent calendar 2022
 | Month date | Resolved date | Steps 1 | Steps 2 | Problem link                                 | Solution link                                                                         |
 |------------|---------------|---------|---------|----------------------------------------------|---------------------------------------------------------------------------------------|
 | Dec 1      | Dec 1         | Done    | Done    | [Link](https://adventofcode.com/2022/day/1)  | [Link](https://github.com/gohabsgo2142/advent_calendar_2022/tree/main/december/Day_1) |
-| Dec 2      | Dec 2         | Not yet | Not yet | [Link](https://adventofcode.com/2022/day/2)  | Link                                                                                  |
+| Dec 2      | Dec 2         | Done    | Done    | [Link](https://adventofcode.com/2022/day/2)  | [Link](https://github.com/gohabsgo2142/advent_calendar_2022/tree/main/december/Day_2) |
 | Dec 3      | Dec 3         | Not yet | Not yet | [Link](https://adventofcode.com/2022/day/3)  | Link                                                                                  |
 | Dec 4      | Dec 4         | Not yet | Not yet | [Link](https://adventofcode.com/2022/day/4)  | Link                                                                                  |
 | Dec 5      | Dec 5         | Not yet | Not yet | [Link](https://adventofcode.com/2022/day/5)  | Link                                                                                  |

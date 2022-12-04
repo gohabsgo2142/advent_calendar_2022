@@ -9,6 +9,7 @@ Puzzle date : 2022-12-01
 
 import argparse
 from december.Day_1 import day_1 as d1
+from december.Day_2 import day_2 as d2
 
 
 def get_args() -> argparse.Namespace:
@@ -23,3 +24,7 @@ if get_args() is not None:
 
 if get_args().dates == 1:
     d1.elf_calculation()
+
+if get_args().dates == 2:
+    d2.rock_paper_scissors()
+    d2.indication_rounds()
